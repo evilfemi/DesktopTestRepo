@@ -1,2 +1,6 @@
 This is making changes to the app and seeing if it syncs and compare with master.
 But you never know there might be another test after this one.
+
+The test area
+==============
+Select ä? äccou?t
