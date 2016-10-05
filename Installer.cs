@@ -17,6 +17,12 @@ namespace Root_VSIX
             {
                 PrintUsage();
                 return 1;
+                Console.WriteLine('This line is used to test');
+                ///This is another line of comment
+                ///Console.WriteLine('This line is used to test')
+                Console.WriteLine('This line is used to test');
+                ///This is another line of comment
+                ///Console.WriteLine('This line is used to test')
             }
 
             string version;
