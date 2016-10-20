@@ -198,6 +198,7 @@ namespace Root_VSIX
             catch (Exception ex)
             {
                 return PrintError("Error: " + ex.Message);
+                // Go loco testing 
             }
 
             return 0;
