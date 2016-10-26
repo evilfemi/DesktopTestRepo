@@ -19,6 +19,7 @@ namespace Root_VSIX
                 return 1;
                 Console.WriteLine('This line is used to test');
                 ///This is another line of comment
+                ///another one.
                 ///Console.WriteLine('This line is used to test')
                 Console.WriteLine('This line is used to test');
                 ///This is another line of comment
